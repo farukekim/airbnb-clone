@@ -1,5 +1,4 @@
 # airbnb-clone
-Airbnb Clone with Django
 
 Coding Airbnb clone using Python, Django and Tailwind
 
